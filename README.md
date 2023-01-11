@@ -5,7 +5,7 @@
 
 <br>
 
-Installation Guide: 
+Installation Guide (Linux): 
 
 Step 1:
 
