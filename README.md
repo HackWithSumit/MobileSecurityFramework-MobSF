@@ -27,4 +27,7 @@ Step 3:
  
        ./run.sh 127.0.0.1:8000
 
+Access the MobSF web interface in browser using the URL :
+
+       http://127.0.0.1:8000
 
