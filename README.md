@@ -11,9 +11,15 @@ Step 1:
 
     sudo apt install python3-dev python3-venv python3-pip build-essential libffi-dev libssl-dev libxml2-dev libxslt1-dev libjpeg62-turbo-dev zlib1g-dev wkhtmltopdf
     
+![image](https://user-images.githubusercontent.com/120317751/212467451-97bc0561-7a1e-4062-9acc-0f281097c6ca.png)
+    
+    
 Step 2: 
 
      git clone https://github.com/MobSF/Mobile-Security-Framework-MobSF.git
+     
+![image](https://user-images.githubusercontent.com/120317751/212467540-85ed4853-fcfe-4222-8726-e885c79eacdd.png)
+     
      
 Step 3:
  
