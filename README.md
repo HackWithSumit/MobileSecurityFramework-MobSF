@@ -32,6 +32,14 @@ Step 3:
  
        sudo ./setup.sh
        
+![image](https://user-images.githubusercontent.com/120317751/212468019-1abad709-9f83-4619-ae06-942802460d76.png)
+
+Take about 10-15 Minutes
+
+![image](https://user-images.githubusercontent.com/120317751/212468053-2330fdf9-39da-4b9b-afb0-745855e1c4d1.png)
+
+       
+       
  Step 5:
  
        ./run.sh 127.0.0.1:8000
