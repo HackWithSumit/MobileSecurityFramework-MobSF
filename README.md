@@ -38,13 +38,31 @@ Take about 10-15 Minutes
 
 ![image](https://user-images.githubusercontent.com/120317751/212468053-2330fdf9-39da-4b9b-afb0-745855e1c4d1.png)
 
+
+![image](https://user-images.githubusercontent.com/120317751/212468125-497b8f48-2f3b-499c-8fc4-b2d6f4d6d228.png)
+
+
+![image](https://user-images.githubusercontent.com/120317751/212468140-6fd67ffb-7dc9-4464-9340-7dce575fc2e6.png)
+
        
        
  Step 5:
  
        ./run.sh 127.0.0.1:8000
+       
+ ![image](https://user-images.githubusercontent.com/120317751/212468198-e4d94f1b-99bf-43a0-b9db-358d1239a404.png)
+ 
+ ![image](https://user-images.githubusercontent.com/120317751/212468234-1d6b264a-3580-4a0c-b814-2abfab0ef956.png)
+
+      
 
 Access the MobSF web interface in browser using the URL :
 
        http://127.0.0.1:8000
+       
+![image](https://user-images.githubusercontent.com/120317751/212468277-9fcca886-ea18-40c4-8578-79d481cc3875.png)
+
+
+![image](https://user-images.githubusercontent.com/120317751/212468318-8e10cac7-00ab-4092-afec-6a3de2e3d783.png)
+
 
