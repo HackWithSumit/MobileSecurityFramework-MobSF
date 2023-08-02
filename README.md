@@ -9,6 +9,25 @@ Python 3.8 </b>
 
     sudo wget https://www.python.org/ftp/python/3.8.12/Python-3.8.12.tgz
 
+<br>
+
+    sudo tar xzf Python-3.8.12.tgz
+
+<br>
+
+
+    cd Python-3.8.12
+
+<br>
+
+
+    sudo ./configure --enable-optimizations
+
+<br>
+
+
+    sudo make altinstall
+
 
 <br>
 
