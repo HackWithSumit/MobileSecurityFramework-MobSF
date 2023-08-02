@@ -3,6 +3,13 @@
 
 ![image](https://user-images.githubusercontent.com/120317751/211775592-8dee2bb6-ad98-4b96-9b79-9e2a22395a98.png)
 
+<b> Important Requirements 
+
+Python 3.8 </b>
+
+    sudo wget https://www.python.org/ftp/python/3.8.12/Python-3.8.12.tgz
+
+
 <br>
 
 Installation Guide (Linux): 
