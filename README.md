@@ -3,6 +3,9 @@
 
 ![image](https://user-images.githubusercontent.com/120317751/211775592-8dee2bb6-ad98-4b96-9b79-9e2a22395a98.png)
 
+
+<B>Download ZIP : https://github.com/MobSF/Mobile-Security-Framework-MobSF/archive/refs/heads/master.zip </B>
+
 <b> Important Requirements 
 
 Python 3.8 </b>
